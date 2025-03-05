@@ -4,6 +4,7 @@
 - clone repo
 - for create build run: `npm run build`
 - for use dev-server run: `npm run dev`
+- for use check lint run: `npm run lint`
 
 ### Used tools:
 
